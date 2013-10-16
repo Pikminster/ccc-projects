@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color:#2c3935;
+    font-family:cursive;
+    text-decoration:bold;
+}
+
+.image {
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: #800000;
+}
